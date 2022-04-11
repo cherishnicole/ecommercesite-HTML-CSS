@@ -1,2 +1,2 @@
-# ecommercesite
+# ecommercesite HTML BASED ONLY
 HTML Project
